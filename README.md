@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Scargeo
-- 👀 I’m interested in problem solving with embedded systems 
-- 🌱 I’m currently learning tinyML
-- 💞️ I’m looking to collaborate on anything related to embedded systems and data analysis 
+- 👀 I’m interested in problem solving with Python and Java 
+- 🌱 I'm a Junior Backend developer with hands on experience with GIT, GitHub, and Docker. 
 - 📫 How to reach me on Gmail: benjaminanokye90@gmail.com
 
 <!---
